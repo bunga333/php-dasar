@@ -6,10 +6,10 @@
     <title>php dasar</title>
 </head>
 <body>
-    <?php $nama = "bunga"; 
+    <?php $nama = "bunga"
           $umur ="16"
     ?>
     
-    <h1>selamat datang, <?php echo $nama; ?>!</h1>
+    <h1>"selamat datang", <?php echo $nama; ?>!</h1>
 </body>
 </html>
